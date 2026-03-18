@@ -1,5 +1,7 @@
-<<<<<<< HEAD
+// Proyecto inicial de Programación - DAW
+
+PARCHE URGENTE APLICADO
+
 Login v1 - Editado por Programador A
-=======
+
 Registro v1 - Editado por Programador B
->>>>>>> feature/registro
